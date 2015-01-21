@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>DBViewer</title>
+        <link rel="stylesheet" href="style.css" />
+        <!--[if lt IE 9]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <header>
+            <div id="logo">
+                <span class="londonTwoFont">FROZEN</span> - <span class="geoSansLightFont">DBViewer</span>
+            </div>
+            <nav id="menuPre"><span class="geoSansLightFont">Catégorie</span></nav>
+        </header>
+        <section><!-- --></section>
+        <footer><!-- --></footer>
+    </body>
+</html>
